@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MousePointerSM/MousePointerSM.vcxproj" Id="2b4fe68e-c55e-445e-a6d1-f271e45f8148" />
+</Solution>
